@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## CC admin 
  一个基于angular4.2.4+ng-bootstrap1.0.0-beta.4+bootstrap4.0.0-beta+scss的后台管理系统界面
 
@@ -199,3 +200,6 @@
 
 ## 许可
 1. [MIT](/LICENSE)
+=======
+# cc-master
+>>>>>>> 04d477ae28e7c5a61931b6d26af51a8dcb0be8ed
